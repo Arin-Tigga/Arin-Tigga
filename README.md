@@ -47,7 +47,6 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 - 🔗 [Restaurant Reservation Website](https://github.com/Arin-Tigga/Restaurant-Reservation-Website)
 - 🔗 [Personal Portfolio Website](https://github.com/Arin-Tigga/Portfolio)
 - 🔗 [Travel Destination Showcase](https://github.com/Arin-Tigga/Travel-Website-)
-- 🔗 [OpenSoft Deloitte Hackathon Project](https://github.com/Azad-Technology/Opensoft-25-frontend)
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arin-tigga)
