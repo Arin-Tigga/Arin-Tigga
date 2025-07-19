@@ -32,10 +32,11 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🏆 Competitive Programming
+## 🏆 Competitive Programming
 <p align="left">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ## 📈 GitHub Stats
