@@ -1,5 +1,5 @@
 🚀 Welcome to My GitHub Profile!
-Hi there! I'm **[Arin Tigga]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm **Arin Tigga**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 ## 🛠️ Tech Stack
 ### 🔹 Programming & Core Concepts
 <p align="left">
