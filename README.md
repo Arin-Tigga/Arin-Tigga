@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-## 🏆 Competitive Programming
-- **Codeforces:** Specialist, Peak Rating: 1552 ([Codemaster404](https://codeforces.com/profile/Codemaster404))
-- **CodeChef:** 3-Star Coder, Peak Rating: 1665 ([code_master404](https://www.codechef.com/users/code_master404))
-
----
 ## 📫 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/arin-tigga" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arin-tigga" /></a>
