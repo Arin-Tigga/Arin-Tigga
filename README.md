@@ -53,5 +53,3 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 - 💼 [LinkedIn](https://www.linkedin.com/in/arin-tigga)
 - 💻 [GitHub](https://github.com/Arin-Tigga)
 - ✉️ tiggaarin18@gmail.com
-- 🧮 Codeforces: [Codemaster404](https://codeforces.com/profile/Codemaster404)
-- 🍽️ CodeChef: [code_master404](https://www.codechef.com/users/code_master404)
