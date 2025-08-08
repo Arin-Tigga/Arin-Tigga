@@ -50,11 +50,6 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 </p>
 
 
-## 📌 Featured Projects
-- 🔗 [Restaurant Reservation Website](https://github.com/Arin-Tigga/Restaurant-Reservation-Website)
-- 🔗 [Personal Portfolio Website](https://github.com/Arin-Tigga/Portfolio)
-- 🔗 [Travel Destination Showcase](https://github.com/Arin-Tigga/Travel-Website-)
-
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arin-tigga)
 - 💻 [GitHub](https://github.com/Arin-Tigga)
