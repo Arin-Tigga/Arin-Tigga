@@ -51,6 +51,7 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 
 
 ## 📬 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/arin-tigga)
-- 💻 [GitHub](https://github.com/Arin-Tigga)
-- ✉️ tiggaarin18@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arin-tigga)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiggaarin18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arin-Tigga)
+
