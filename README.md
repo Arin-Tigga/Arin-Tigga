@@ -45,9 +45,11 @@ Hi there! I'm **Arin Tigga**, a passionate full-stack developer, competitive pro
 </p>
 
 ## 📊 Most Used Languages
+## 📊 Most Used Languages
 <p align="center">
-  <img src="most-used-languages.png" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arin-Tigga&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ## 📌 Featured Projects
 - 🔗 [Restaurant Reservation Website](https://github.com/Arin-Tigga/Restaurant-Reservation-Website)
